@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Music Concert",
+    "date": "31-10-2024",
+    "location": "Mumbai",
+    "description": "An amazing concert featuring top artists.",
+    "image": "https://thumbs.dreamstime.com/b/rock-concert-party-event-music-festival-lighting-stage-concept-youth-fan-club-people-lifestyle-theme-live-show-149813222.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kangra Festival",
+    "date": "10-11-2024",
+    "location": "Dharamshala",
+    "description": "Enjoy delicious food from around the world.",
+    "image": "https://imgs.search.brave.com/Qa6j0BqBHLPI_IRQgsMmEMKDDpNLc5d_YRv4w939afo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTEz/MzE4NDg1Ni9waG90/by9wZW9wbGUtY2Vs/ZWJyYXRpbmctY2Fy/bml2YWwuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVZHLUpk/dXZ1NGxVWHhhSENt/dUdJc3hUYXJSSlp4/WHRQYkRQRXFnV2JT/bHc9"
+  },
+  {
+    "id": 3,
+    "name": "Shillong Cherry Blossom Festival 2024",
+    "date": "15-11-2024",
+    "location": "Shillong",
+    "description": "Join us for the much-anticipated Cherry Blossom Festival, a dazzling celebration that has rapidly blossomed into North East India's premier commercial event! Each year, this vibrant festival attracts international stars and showcases a unique blend of culture and creativity, captivating audiences from near and far up to 30,000 per day.",
+    "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-shillong-cherry-blossom-festival-2024-0-2024-10-2-t-13-18-14.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Jo Bolta Hai Wohi Hota Hai Ft. Harsh Gujral",
+    "date": "3-11-2024",
+    "location": "Delhi",
+    "description": "It takes exemplary courage to sit in the first two rows of a Harsh Gujral`s show because he will get you with his highly witty yet charming style.",
+    "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-jo-bolta-hai-wohi-hota-hai-ft-harsh-gujral-0-2024-3-11-t-8-8-49.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Zakir Khan Live",
+    "date": "03-11-2024",
+    "location": "Mumbai",
+    "description": "A Brand New Stand up Special By Zakir Khan ",
+    "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-zakir-khan-live-0-2024-9-19-t-6-4-52.jpg"
+  },{
+    "id": 6,
+    "name": "Karan Aujla - It Was All A Dream",
+    "date": "22-12-2024",
+    "location": "Mumbai",
+    "description": "Experience the magic of Karan Aujla live on his It Was All A Dream World Tour! Get ready for a night of sensational music as he performs his biggest hitsx",
+    "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-karan-aujla-it-was-all-a-dream-mumbai-0-2024-9-18-t-10-49-10.jpg"
+  }
+]
