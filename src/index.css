@@ -79,7 +79,7 @@ input {
 @media (max-width: 768px) {
   .modal-content img{
     margin-top: 10px;
-    width: 400px;
+    width: 350px;
     height:150px;
   }
 }
