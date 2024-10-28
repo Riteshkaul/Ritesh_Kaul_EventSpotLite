@@ -29,6 +29,7 @@ A sleek, responsive single-page React application that helps you discover local 
    git clone https://github.com/Riteshkaul/Ritesh_Kaul_EventSpotLite.git
    cd EventSpotLite
    npm i
+   npm run dev
 ## Usage
    - **Search for Eventsn**: Use the search bar in the navbar to filter and find events by name or location.
    - **Explore Event Details**: Click on any event card to view more information in a modal.
